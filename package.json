@@ -1,4 +1,8 @@
 {
+	"name": "ether-link",
+	"version": "0.0.1",
+	"description": "The easiest way to interact with the Ethereum blockchain",
+	"main": "index.js",
   "dependencies": {
     "axios": "0.17.1",
     "dotenv": "4.0.0",
